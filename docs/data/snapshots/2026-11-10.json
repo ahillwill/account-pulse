@@ -1,12 +1,12 @@
 {
  "date": "2026-11-10",
- "run_at": "2026-11-10T01:13:46.270271-05:00",
+ "run_at": "2026-11-10T08:00:25.439787-05:00",
  "records": {
   "Datadog": {
    "company": "Datadog",
    "jobs": {
     "available": true,
-    "open_roles": 400,
+    "open_roles": 397,
     "role_ids": [
      "1497543",
      "1694375",
@@ -138,7 +138,6 @@
      "7905276",
      "7917340",
      "7919037",
-     "7926141",
      "7927485",
      "7939294",
      "7947683",
@@ -156,7 +155,6 @@
      "8003531",
      "8010585",
      "8011158",
-     "8014851",
      "8021535",
      "8024670",
      "8026831",
@@ -203,7 +201,6 @@
      "8125958",
      "8126000",
      "8126596",
-     "8127768",
      "8127916",
      "8128182",
      "8128450",
@@ -264,7 +261,6 @@
      "8206923",
      "8210153",
      "8210323",
-     "8210507",
      "8211078",
      "8211090",
      "8212114",
@@ -404,15 +400,22 @@
      "8351509",
      "8354556",
      "8355189",
+     "8357178",
      "8358479",
      "8359339",
      "8364908",
      "8365206"
     ],
     "has_post_dates": true,
-    "new_7d": 23,
-    "new_30d": 87,
+    "new_7d": 24,
+    "new_30d": 88,
     "recent_roles": [
+     {
+      "title": "Technical Account Manager 2 - New York",
+      "location": "New York, New York, USA",
+      "url": "https://careers.datadoghq.com/detail/8357178/?gh_jid=8357178",
+      "posted": "2026-11-10"
+     },
      {
       "title": "Senior AI Research Engineer - GPU Systems & Kernels",
       "location": "Paris, France",
@@ -496,18 +499,12 @@
       "location": "New York, New York, USA",
       "url": "https://careers.datadoghq.com/detail/8347905/?gh_jid=8347905",
       "posted": "2026-11-05"
-     },
-     {
-      "title": "Mid Market Account Executive",
-      "location": "Sydney, Australia",
-      "url": "https://careers.datadoghq.com/detail/8311586/?gh_jid=8311586",
-      "posted": "2026-11-05"
      }
     ],
     "prev_open_roles": 400,
-    "change_pct": 0.0,
-    "new_since_last": 0,
-    "closed_since_last": 0
+    "change_pct": -0.8,
+    "new_since_last": 1,
+    "closed_since_last": 4
    },
    "news": {
     "available": true,
@@ -582,13 +579,13 @@
     "cik": "1561550",
     "news_query": "\"Datadog\""
    },
-   "checked_at": "2026-11-10T01:13:46.270271-05:00"
+   "checked_at": "2026-11-10T08:00:25.439787-05:00"
   },
   "MongoDB": {
    "company": "MongoDB",
    "jobs": {
     "available": true,
-    "open_roles": 374,
+    "open_roles": 372,
     "role_ids": [
      "5607962",
      "6530934",
@@ -713,7 +710,6 @@
      "8072506",
      "8073670",
      "8075467",
-     "8077491",
      "8079676",
      "8079914",
      "8081197",
@@ -807,7 +803,6 @@
      "8194603",
      "8195324",
      "8200434",
-     "8200773",
      "8200824",
      "8201176",
      "8201245",
@@ -850,6 +845,7 @@
      "8233734",
      "8234520",
      "8234586",
+     "8236734",
      "8237572",
      "8238617",
      "8238623",
@@ -958,7 +954,6 @@
      "8355268",
      "8355408",
      "8355989",
-     "8358879",
      "8359541",
      "8359903",
      "8359939",
@@ -969,6 +964,12 @@
     "new_7d": 41,
     "new_30d": 109,
     "recent_roles": [
+     {
+      "title": "Senior Engagement Manager",
+      "location": "Sydney",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8236734",
+      "posted": "2026-11-10"
+     },
      {
       "title": "Manager, Sales Development",
       "location": "Austin",
@@ -983,14 +984,14 @@
      },
      {
       "title": "Senior Software Engineer, Atlas Agent Engine",
-      "location": "United States",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8360713",
+      "location": "Alberta; British Columbia; Manitoba; Quebec; Toronto",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8360715",
       "posted": "2026-11-09"
      },
      {
       "title": "Senior Software Engineer, Atlas Agent Engine",
-      "location": "Alberta; British Columbia; Manitoba; Quebec; Toronto",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8360715",
+      "location": "United States",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8360713",
       "posted": "2026-11-09"
      },
      {
@@ -1030,12 +1031,6 @@
       "posted": "2026-11-06"
      },
      {
-      "title": "Senior Customer Success Manager",
-      "location": "London",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8358879",
-      "posted": "2026-11-06"
-     },
-     {
       "title": "Senior Site Reliability Engineer, InfraSec",
       "location": "Dublin",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8278897",
@@ -1061,9 +1056,9 @@
      }
     ],
     "prev_open_roles": 374,
-    "change_pct": 0.0,
-    "new_since_last": 0,
-    "closed_since_last": 0
+    "change_pct": -0.5,
+    "new_since_last": 1,
+    "closed_since_last": 3
    },
    "news": {
     "available": true,
@@ -1129,7 +1124,7 @@
     "cik": "1441816",
     "news_query": "\"MongoDB\""
    },
-   "checked_at": "2026-11-10T01:13:46.270271-05:00"
+   "checked_at": "2026-11-10T08:00:25.439787-05:00"
   },
   "Etsy": {
    "company": "Etsy",
@@ -1256,7 +1251,7 @@
     "cik": "1370637",
     "news_query": "\"Etsy\""
    },
-   "checked_at": "2026-11-10T01:13:46.270271-05:00"
+   "checked_at": "2026-11-10T08:00:25.439787-05:00"
   },
   "Peloton": {
    "company": "Peloton",
@@ -1534,7 +1529,7 @@
     "cik": "1639825",
     "news_query": "\"Peloton\""
    },
-   "checked_at": "2026-11-10T01:13:46.270271-05:00"
+   "checked_at": "2026-11-10T08:00:25.439787-05:00"
   },
   "Oscar Health": {
    "company": "Oscar Health",
@@ -1894,7 +1889,7 @@
     "cik": "1568651",
     "news_query": "\"Oscar Health\""
    },
-   "checked_at": "2026-11-10T01:13:46.270271-05:00"
+   "checked_at": "2026-11-10T08:00:25.439787-05:00"
   },
   "Squarespace": {
    "company": "Squarespace",
@@ -2109,7 +2104,7 @@
     "cik": "",
     "news_query": "\"Squarespace\""
    },
-   "checked_at": "2026-11-10T01:13:46.270271-05:00"
+   "checked_at": "2026-11-10T08:00:25.439787-05:00"
   },
   "Ramp": {
    "company": "Ramp",
@@ -2433,7 +2428,7 @@
     "cik": "",
     "news_query": "\"Ramp\" AND (fintech OR finance OR startup)"
    },
-   "checked_at": "2026-11-10T01:13:46.270271-05:00"
+   "checked_at": "2026-11-10T08:00:25.439787-05:00"
   },
   "Brex": {
    "company": "Brex",
@@ -2842,7 +2837,7 @@
     "cik": "",
     "news_query": "\"Brex\""
    },
-   "checked_at": "2026-11-10T01:13:46.270271-05:00"
+   "checked_at": "2026-11-10T08:00:25.439787-05:00"
   },
   "Mercury": {
    "company": "Mercury",
@@ -2893,7 +2888,7 @@
     "cik": "",
     "news_query": "\"Mercury\" AND (bank OR banking OR fintech)"
    },
-   "checked_at": "2026-11-10T01:13:46.270271-05:00"
+   "checked_at": "2026-11-10T08:00:25.439787-05:00"
   },
   "Betterment": {
    "company": "Betterment",
@@ -3070,7 +3065,7 @@
     "cik": "",
     "news_query": "\"Betterment\""
    },
-   "checked_at": "2026-11-10T01:13:46.270271-05:00"
+   "checked_at": "2026-11-10T08:00:25.439787-05:00"
   },
   "Plaid": {
    "company": "Plaid",
@@ -3099,7 +3094,7 @@
     "cik": "",
     "news_query": "\"Plaid\" AND (fintech OR payments OR banking)"
    },
-   "checked_at": "2026-11-10T01:13:46.270271-05:00"
+   "checked_at": "2026-11-10T08:00:25.439787-05:00"
   },
   "Notion": {
    "company": "Notion",
@@ -3397,27 +3392,27 @@
     "cik": "",
     "news_query": "\"Notion\" AND (software OR AI OR startup)"
    },
-   "checked_at": "2026-11-10T01:13:46.270271-05:00"
+   "checked_at": "2026-11-10T08:00:25.439787-05:00"
   }
  },
  "assessments": {
   "Datadog": {
    "status": "Watch",
-   "health_score": 58,
-   "headline": "Datadog is growing strongly, but renewal is 56 days out with no recent contact",
-   "reason": "The company looks healthy: 400 open roles, 23 new in the last 7 days, and routine Q3 earnings filings (10-Q and 8-K Item 2.02) with no red flags. The risk is relationship-side: renewal is on 2027-01-05 (56 days) for $180K ARR, and the last contact was 40 days ago.",
-   "next_action": "Austin should contact the Datadog champion this week to book a renewal-planning call before mid-November.",
+   "health_score": 60,
+   "headline": "Datadog is financially strong, but renewal is 56 days out with no contact",
+   "reason": "The company looks healthy: 397 open roles, 24 new in the last 7 days, a routine Q3 10-Q and earnings 8-K, and no layoffs or executive departures. The risk is on our side: renewal is on 2027-01-05 (56 days away) and the last contact was 40 days ago (2026-10-01), on a $180K ARR account.",
+   "next_action": "Austin should reach out this week to book a renewal conversation. Use Datadog's Q3 results and growth as the opening, and confirm who owns the renewal decision.",
+   "overrode_rules": false,
    "risks": [
     "Renewal in 56 days with no contact for 40 days",
-    "Datadog is pursuing acquisitions (the Upwind offer was rejected), which could shift its priorities or vendor consolidation",
-    "Open roles are flat versus the last run (400, no net change)"
+    "Hiring includes many Technical Account Manager and sales roles, so counterparts may be changing or stretched",
+    "Datadog is acquisitive (Upwind offer), which could shift priorities, but there is no acquisition of Datadog"
    ],
    "opportunities": [
-    "23 new roles in 7 days and 87 in 30 days, including sales, TAM and AI infrastructure roles, point to expansion",
-    "Q3 2026 earnings were released with no distress signals",
-    "Growth in AI engineering is a possible expansion conversation"
+    "Strong hiring growth: 88 new roles in 30 days, including AI and infrastructure engineering",
+    "Q3 2026 earnings filed on schedule with no distress signals",
+    "Upwind raised $400M after walking away from the offer, which shows Datadog is expanding in cloud security. That could open an expansion conversation."
    ],
-   "overrode_rules": false,
    "source": "agent",
    "tools_used": [
     "get_hiring_data",
@@ -3430,18 +3425,18 @@
   "MongoDB": {
    "status": "Healthy",
    "health_score": 76,
-   "headline": "Hiring strongly, renewal far off, one 8-K leadership change to check",
-   "reason": "MongoDB has 374 open roles with 41 new in 7 days, including Atlas engineering, sales and customer success. The renewal is 232 days out (2027-06-30) and we last spoke 8 days ago. The only concern is an Oct 15 8-K Item 5.02 (executive or director change), whose details I couldn't see. I'm keeping Healthy because nothing else points to trouble.",
-   "next_action": "Read the Oct 15 8-K to see who changed roles and whether that person affects your relationship. Then use your next check-in to confirm your contacts and priorities haven't changed.",
+   "headline": "Hiring strongly, renewal far off, one 8-K leadership change",
+   "reason": "MongoDB has 372 open roles, 41 of them new in the last 7 days (mostly engineering and sales). Renewal is 232 days away and we last had contact 8 days ago. The only risk is an Oct 15 8-K with Item 5.02 (executive or director change), and the details aren't in the data I have. I'm keeping the rule-based Healthy status.",
+   "next_action": "Read the Oct 15 8-K (Item 5.02) to see who changed roles. If it touches your sponsor or buying contacts, ask them about it on your next call.",
    "overrode_rules": false,
    "risks": [
-    "Oct 15 8-K Item 5.02 executive or director change; details not reviewed",
-    "AI competition is driving software stock volatility (neutral headline)"
+    "Oct 15 8-K Item 5.02 executive/director change; the details were not reviewed",
+    "AI-driven software stock volatility noted in the news (neutral tone)"
    ],
    "opportunities": [
-    "Heavy hiring in Atlas Agent Engine, customer success and renewals roles suggests growth and investment",
-    "New ANZ lead appointed and India expansion could open regional conversations",
-    "Renewal is 232 days away, so there's time to plan an expansion"
+    "109 new roles in 30 days, including Atlas Agent Engine and migration tooling engineers",
+    "Expanding in India and a new ANZ lead appointed, which may open regional contacts",
+    "Renewals Specialist role posted, so renewal and customer-success capacity is growing"
    ],
    "source": "agent",
    "tools_used": [
@@ -3454,20 +3449,20 @@
   },
   "Etsy": {
    "status": "Healthy",
-   "health_score": 62,
-   "headline": "Etsy stable; renewal in 40 days, check 8-K exec change",
-   "reason": "I'm overriding the rule-based Watch status. The only negative headline is about toxic jewelry sold by third-party sellers on Etsy and Amazon, not about Etsy's finances. The 8-K Item 5.02 came in the same filing as earnings (10/28), and we last had contact that same day, 13 days ago. I haven't confirmed who changed roles.",
-   "next_action": "Austin: read the 10/28 8-K Item 5.02 to see whether it touches your contacts or budget owner. Then book a renewal conversation before mid-November.",
+   "health_score": 64,
+   "headline": "Etsy stable; renewal in 40 days, exec change needs checking",
+   "reason": "I'm overriding the rule-based Watch status. The one negative headline is about toxic jewelry from third-party sellers, which is noise. The 8-K Item 5.02 was filed alongside routine earnings and 10-Q on Oct 28, and its details weren't available. Contact was 13 days ago, and the $95K renewal is on Dec 20.",
+   "next_action": "Austin: read the Oct 28 8-K Item 5.02 to see who is changing, and whether they are your sponsor or budget owner. Then confirm renewal timing and next steps with your main contact this week.",
    "overrode_rules": true,
    "risks": [
-    "8-K Item 5.02 executive/director change filed 10/28; role and impact not yet verified",
-    "Renewal on 12/20 (40 days) for $95K ARR",
-    "Ongoing press on AI-generated listings and marketplace trust, plus toxic jewelry reports"
+    "8-K Item 5.02 executive/director change filed Oct 28; the details weren't reviewed",
+    "Renewal in 40 days ($95K ARR)",
+    "Hiring data unavailable, so there is no read on headcount trends",
+    "Press scrutiny of AI-generated listings and product safety on the marketplace"
    ],
    "opportunities": [
-    "Etsy is tightening AI and listing-quality guidelines, which could create demand for trust and quality tooling",
-    "Recent contact on 10/28 gives a warm start for renewal talks",
-    "Quarterly 10-Q and earnings filed on schedule, with no severe filings"
+    "Etsy is cracking down on AI content in listings and investing in marketplace trust, which may open a conversation about our fit",
+    "Recent contact (Oct 28) gives a warm opening for early renewal talks"
    ],
    "source": "agent",
    "tools_used": [
@@ -3480,21 +3475,20 @@
   },
   "Peloton": {
    "status": "Healthy",
-   "health_score": 70,
+   "health_score": 68,
    "headline": "Peloton stable and hiring; reconnect before renewal",
-   "reason": "Overriding the rule-based Watch: hiring is steady at 43 open roles with 13 new in 30 days, Q1 earnings and 10-Q were filed normally, and a BofA Buy rating was reaffirmed. The only negatives are an unexplained 8-K Item 5.02 exec/director change from Oct 13 and 51 days without contact, with renewal still 125 days out.",
-   "next_action": "Austin should reach out this week to reconnect. He should also check who the Oct 13 8-K Item 5.02 change affects, in case it touches our contacts, and start renewal planning for March 15.",
+   "reason": "Hiring is steady at 43 open roles with 13 new in 30 days, and the news is clean. The only analyst item is a reaffirmed Buy rating, and Q1 earnings were filed 11/5 with no distress signals. The Oct 13 exec-change 8-K and 51 days without contact are real but moderate, with renewal 125 days away, so I'm overriding the rules' Watch status.",
+   "next_action": "Austin: reach out this week to reconnect. Also read the Oct 13 8-K (Item 5.02) to see whether the exec change affects your sponsor or buyer, then book a pre-renewal check-in.",
    "overrode_rules": true,
    "risks": [
-    "8-K Item 5.02 executive/director change on Oct 13; details not reviewed",
-    "No contact in 51 days (last contact Sep 20), with renewal 125 days out",
-    "Halloween ride apology (Oct 31) is minor reputational noise"
+    "Executive/director change filed in 8-K Item 5.02 on Oct 13; details not reviewed",
+    "No contact for 51 days; renewal on 2027-03-15 (125 days)",
+    "Minor reputational noise: Halloween ride pulled after apology"
    ],
    "opportunities": [
-    "43 open roles and 13 new in 30 days, including AI and engineering hires, point to growth",
-    "The Verge reports a mystery AI product teased for fall 2027",
-    "BofA reaffirmed its Buy rating after Q1 earnings",
-    "$70K ARR renewal on 2027-03-15 leaves time to plan an early renewal or expansion conversation"
+    "Steady hiring including AI/engineering roles and retail expansion",
+    "Teased AI product for fall 2027 could create new needs",
+    "Q1 earnings filed; BofA reaffirmed Buy rating"
    ],
    "source": "agent",
    "tools_used": [
@@ -3509,17 +3503,17 @@
    "status": "Healthy",
    "health_score": 78,
    "headline": "Oscar Health hiring strongly; recent contact; renewal in 83 days",
-   "reason": "Oscar has 199 open roles, with 19 new in the last 7 days and 75 in the last 30. Contact was 6 days ago, and the only news is a neutral earnings story, with a routine 10-Q and earnings 8-K (Item 2.02) filed on 11/5. No layoffs, executive departures or other severe signals appear.",
-   "next_action": "Austin should use the renewal conversation to start renewal planning, and ask how the Service Transformation and Lucie platform hiring affects their needs.",
-   "risks": [
-    "Renewal on 2027-02-01 is 83 days out; the $88K ARR should be secured early",
-    "Earnings-day stock dip in the news; details unverified"
-   ],
-   "opportunities": [
-    "Broad hiring (Service Transformation, Lucie platform, data science) suggests expansion",
-    "New senior roles such as Head of Network Development and Director of Product, Provider Data Management could be new stakeholders"
-   ],
+   "reason": "199 open roles with 19 new in 7 days and 75 in 30 days, across product, data science and leadership. Last contact was 6 days ago, earnings filings (10-Q, 8-K 2.02) are routine, and the only news item is a neutral stock-move story.",
+   "next_action": "Austin: start renewal conversation now (renewal Feb 1, 2027) and tie it to their growth areas, such as the Lucie platform and service transformation.",
    "overrode_rules": false,
+   "opportunities": [
+    "Broad hiring: 19 new roles in 7 days, including Lucie Platform product and data science, Service Transformation, and a Head of Network Development",
+    "Recent contact on Nov 4 gives momentum going into renewal"
+   ],
+   "risks": [
+    "Renewal in 83 days; ARR is $88K",
+    "Stock slipped after earnings per a neutral IBD headline; check the 10-Q for any budget pressure"
+   ],
    "source": "agent",
    "tools_used": [
     "get_hiring_data",
@@ -3533,17 +3527,17 @@
    "status": "Watch",
    "health_score": 52,
    "headline": "Squarespace cut 19% of staff; renewal 171 days out",
-   "reason": "The rule's \"serious news\" flag is the SUSE layoff story, which is a different company. The real signal is Squarespace's own 19% (~300 job) layoff on Nov 2\u20133, but hiring is steady at 21 open roles, and renewal is 171 days away. I'm overriding Critical to Watch.",
-   "next_action": "Austin should reach out this week to check in on the restructuring. Ask whether your main contacts or the team using the product were affected, and confirm who owns the relationship going forward.",
+   "reason": "The rule's \"SUSE layoffs\" flag is about a different company and shouldn't count. But Squarespace's own 19% (~300 jobs) layoff on Nov 2\u20133 is real and serious, while hiring is steady at 21 open roles, the renewal is 171 days away, and the last contact was 26 days ago. I'm overriding Critical to Watch.",
+   "next_action": "Austin should reach out this week to check in on the layoff's impact, confirm who our day-to-day contacts are now, and ask whether priorities or budget have changed.",
    "overrode_rules": true,
    "risks": [
-    "19% workforce cut (~300 people) announced Nov 2\u20133; your contacts or sponsors may have been affected",
-    "Last contact was 26 days ago, before the layoff news",
-    "Restructuring could bring budget scrutiny ahead of the 2027-04-30 renewal ($60K ARR)"
+    "Squarespace laid off 19% (~300 people) on Nov 2\u20133, so our contacts or sponsors may have left",
+    "Budget and vendor scrutiny could rise before the 2027-04-30 renewal ($60K ARR)",
+    "26 days since last contact"
    ],
    "opportunities": [
-    "Open roles are flat at 21, including engineering, data/ML and product, so the company is not frozen",
-    "The CEO says the cuts mean smaller teams with more 'player coaches'. That may open room to pitch efficiency or consolidation value.",
+    "Open roles are steady at 21, with new postings in the last 7 days, so the company is still hiring",
+    "The CEO is framing the cuts as a move to smaller teams, which could create room for efficiency or consolidation pitches",
     "There is plenty of time before renewal to rebuild the relationship"
    ],
    "source": "agent",
@@ -3558,18 +3552,17 @@
   "Ramp": {
    "status": "Healthy",
    "health_score": 86,
-   "headline": "Strong hiring, fresh contact, distant renewal; news is irrelevant noise",
-   "reason": "Ramp has 172 open roles, 23 new in 7 days and 55 in 30 days, including security, legal, sales and customer experience. Contact was 4 days ago and renewal is 264 days out. All three news items are unrelated to Ramp (Texas finance chief, an Indigenous lending group, AdaniConneX loan), so I overrode the rules' -8 and +5 news adjustments.",
-   "next_action": "Austin: use the next check-in to ask about their growth plans, including the new stablecoin and security roles, and to scope expansion beyond the $120K ARR.",
+   "headline": "Strong hiring, recent contact, distant renewal; news is name-match noise",
+   "reason": "The three news items (Texas finance chief, Indigenous lending, AdaniConneX loan) aren't about Ramp, so I'm dropping the -8 negative and +5 positive. 172 open roles with 23 new in 7 days, last contact 4 days ago, and renewal 264 days out all point to a healthy account. I'm raising the rule score from 72 to 86; the status stays Healthy.",
+   "next_action": "Austin: use the next check-in to ask about their growth plans, such as the new Strategic AE and Growth Account Manager hires, and look for expansion beyond the $120K ARR.",
    "overrode_rules": true,
-   "opportunities": [
-    "Hiring is up sharply (23 new roles in 7 days), including stablecoin, security and strategic sales roles, which suggests expansion",
-    "Renewal is 264 days away, so there is room to plan an upsell",
-    "Recent contact (4 days ago) keeps the relationship warm"
-   ],
    "risks": [
-    "Open roles were flat vs. the last run (172 \u2192 172), so check that the hiring pace continues",
-    "News coverage is mostly name-collision noise, so there is little real news signal to watch"
+    "No real risks found. Renewal is far off (2027-08-01), so keep up the regular contact cadence."
+   ],
+   "opportunities": [
+    "23 new roles in 7 days and 55 in 30 days show sustained growth",
+    "New sales, customer experience, security and legal hires could mean more demand for our product",
+    "Stablecoin and security engineering roles point to new product investment"
    ],
    "source": "agent",
    "tools_used": [
@@ -3584,18 +3577,17 @@
    "status": "Watch",
    "health_score": 52,
    "headline": "Brex is growing, but renewal is near and contact has lapsed",
-   "reason": "The company looks healthy: it has 271 open roles, 26 of them new this week and 68 in the last 30 days. The risk is the relationship. The $110K renewal is on 2026-12-31, 51 days away, and the last contact was 46 days ago (2026-09-25).",
-   "next_action": "Austin should reach out to Brex this week to book a renewal conversation. Use the company's growth as the opening.",
+   "reason": "The $110K renewal is on 2026-12-31, 51 days away, and there has been no contact for 46 days (last on 2026-09-25). Hiring is strong, with 271 open roles and 26 new in the last 7 days, and there are no negative news items, so the risk comes from the relationship gap and not from the company.",
+   "next_action": "Austin should reach out to Brex this week to book a renewal check-in. Use their growth as the opening to talk about expanded needs.",
    "overrode_rules": false,
    "risks": [
-    "Renewal in 51 days with no contact for 46 days",
-    "$110K ARR at stake",
-    "Renewal has no scheduled meeting that we can see"
+    "Renewal in 51 days with no contact in 46 days",
+    "No renewal conversation visible in the CRM"
    ],
    "opportunities": [
-    "Heavy hiring (26 new roles in 7 days, 271 open) suggests growth and a possible expansion",
-    "Hiring in T&E design and partnerships may point to product areas to expand into",
-    "No negative news or severe signals in the last 14 days"
+    "Hiring is up: 271 open roles, 68 new in 30 days",
+    "Hiring in T&E design, Private Equity and Startup/VC partnerships, and Brazil engineering, which points to expansion and possible upsell",
+    "No negative news"
    ],
    "source": "agent",
    "tools_used": [
@@ -3610,17 +3602,16 @@
    "status": "Healthy",
    "health_score": 76,
    "headline": "No real risk signals; the negative news is a horoscope",
-   "reason": "The only negative headline is a Times of India horoscope about \"Mercury Retrograde\", which has nothing to do with this account, so I overrode the rule-based Watch status. Renewal is 186 days out (2027-05-15) and the last contact was 11 days ago, so nothing in the data is urgent.",
-   "next_action": "Austin: schedule a routine check-in this month and begin early renewal planning for the $45K ARR contract.",
+   "reason": "The only negative item is a Times of India horoscope about \"Mercury Retrograde\", which has nothing to do with this account, so I overrode the rule-based Watch status. The renewal is 186 days away (2027-05-15), last contact was 11 days ago, and the other news is unrelated Indian earnings roundups.",
+   "next_action": "Austin: keep up regular contact and book a mid-term check-in. Use it to start renewal and expansion talks for the $45K ARR account.",
+   "overrode_rules": true,
    "risks": [
-    "No hiring data or SEC filings available, so there is less visibility into company health",
-    "News coverage is keyword-matched to the name 'Mercury' and returns noise, not real company news"
+    "No hiring data (no job board configured), so growth or contraction can't be assessed",
+    "News coverage is keyword-matched and mostly irrelevant, so there is little real signal on the company"
    ],
    "opportunities": [
-    "Renewal is 6 months away, leaving time to set up an early renewal or expansion conversation",
-    "Contact is recent (11 days ago)"
+    "Renewal is about 6 months out, leaving time to plan an early renewal or expansion conversation"
    ],
-   "overrode_rules": true,
    "source": "agent",
    "tools_used": [
     "get_hiring_data",
@@ -3633,16 +3624,17 @@
   "Betterment": {
    "status": "Healthy",
    "health_score": 82,
-   "headline": "Steady hiring and recent contact; negative news is unrelated noise",
-   "reason": "The flagged \"negative\" headline is about West Bengal film-industry work rules and has nothing to do with Betterment, so I'm overriding the rule-based Watch status. Betterment has 25 open roles (8 new in 30 days, including engineering and security), and we last spoke 9 days ago, with renewal 71 days out.",
-   "next_action": "Austin: use the next check-in to open the Jan 20 renewal conversation and ask about plans for their engineering and API platform hiring.",
+   "headline": "Steady hiring, recent contact; negative news is unrelated noise",
+   "reason": "Overriding the rule-based Watch status: the one \"negative\" headline (West Bengal artist work-hours advisory) has nothing to do with Betterment, and no news mentions the company at all. Hiring is steady at 25 open roles with 8 new in 30 days, including engineering and security, and the last contact was 9 days ago with renewal 71 days out.",
+   "next_action": "Austin: use the next check-in to start renewal talks (Jan 20, $40K ARR) and ask about their engineering and API platform plans.",
    "overrode_rules": true,
    "risks": [
-    "Renewal on 2027-01-20 (71 days out, $40K ARR) still needs to be locked in"
+    "Renewal in 71 days, so keep up regular contact",
+    "No news coverage of Betterment itself, so little external signal"
    ],
    "opportunities": [
-    "Steady hiring across engineering, security and product (8 new roles in 30 days) suggests growth",
-    "Advisor Solutions and API & Auth Platform hiring may point to expansion"
+    "Steady hiring in engineering, security and product points to a growing business",
+    "Open API & Auth Platform and Advisor Solutions roles could support an expansion conversation"
    ],
    "source": "agent",
    "tools_used": [
@@ -3657,14 +3649,14 @@
    "status": "Healthy",
    "health_score": 70,
    "headline": "Quiet account, renewal 8 months out, recent contact",
-   "reason": "No news in the last 14 days. Renewal is 242 days away and the last contact was 19 days ago. Hiring and SEC data aren't available (no job board configured, and Plaid isn't public), so the score rests on CRM data alone.",
-   "next_action": "Austin: schedule a routine check-in this month and ask about expansion plans or new use cases.",
+   "reason": "No news in the last 14 days. The renewal is 242 days away and the last contact was 19 days ago. Hiring and SEC data are unavailable (no job board configured; Plaid is not public), so there is no evidence either way from those sources.",
+   "next_action": "Austin: send a light check-in and ask about Plaid's priorities for next year. Use it to start building the renewal and expansion case for the $130K ARR.",
    "overrode_rules": false,
    "risks": [
-    "Limited external visibility: no hiring or filing data and no news coverage"
+    "Hiring and SEC data are unavailable, so the assessment has less external signal than usual."
    ],
    "opportunities": [
-    "Renewal is far off, so there's time to build the relationship and explore expansion on the $130K ARR"
+    "The renewal is far off, so there is time to plan an expansion conversation."
    ],
    "source": "agent",
    "tools_used": [
@@ -3678,17 +3670,17 @@
   "Notion": {
    "status": "Healthy",
    "health_score": 65,
-   "headline": "Notion is growing fast, but we've been silent 72 days",
-   "reason": "Notion has 153 open roles, 19 of them new in the last 7 days (sales, solutions and engineering), and there are no negative news items or red flags. The risk is relationship drift: no contact since Aug 30 with the $75K renewal 110 days out on Feb 28. I discounted the rule's positive-news credit because that headline is about Presentations.AI, not Notion.",
-   "next_action": "Austin should reach out this week to book a check-in call before the renewal window tightens. Open with their growth, such as the new EMEA and APAC teams, and ask about seat and usage needs.",
+   "headline": "Notion is hiring fast, but we've been silent 72 days",
+   "reason": "Notion has 153 open roles, with 19 posted in the last 7 days and 49 in 30 days. The hiring is heavy on sales and solutions roles in Dublin, which points to growth. The last contact was 2026-08-30, and the $75K renewal is in 110 days (2027-02-28). The \"positive news\" item is a Presentations.AI press release, not real Notion news, so I gave it no weight.",
+   "next_action": "Austin should reach out to Notion this week to book a check-in and open renewal talks, using their expansion as the reason to call.",
    "overrode_rules": false,
    "risks": [
-    "No contact in 72 days with renewal 110 days away",
-    "Last score history shows the same silence flagged yesterday, with no action yet"
+    "No contact in 72 days with renewal 110 days out",
+    "Score has slipped from 68 to 65 as the contact gap grows"
    ],
    "opportunities": [
-    "Rapid hiring (49 new roles in 30 days) suggests more seats or an expansion",
-    "New Dublin, Tokyo and NYC roles point to regional growth and possible new-region needs"
+    "Fast hiring (19 new roles in 7 days) suggests growth and possible seat expansion",
+    "Large new solutions and sales team in Dublin could mean EMEA expansion"
    ],
    "source": "agent",
    "tools_used": [

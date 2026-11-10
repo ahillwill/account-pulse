@@ -69,26 +69,26 @@
   },
   {
    "date": "2026-11-10",
-   "run_at": "2026-11-10T01:13:46.270271-05:00",
-   "summary": "Most of the book is healthy, with 9 of 12 accounts in good shape, but three are on Watch: Datadog (58), Squarespace (52), and Brex (52). Start with Datadog and Brex, where renewals are close and contact has lapsed, so Austin should book renewal conversations this week. Then reach out to Squarespace about its 19% staff cut, and check the recent 8-K executive changes at Etsy, Peloton, and MongoDB, with Etsy first since its renewal is 40 days out and Notion's 72-day silence also needs a check-in call soon.",
+   "run_at": "2026-11-10T08:00:25.439787-05:00",
+   "summary": "The book looks mostly healthy, with nine of twelve accounts rated Healthy and three on Watch (Datadog, Squarespace, Brex). Start with the nearest renewals: Etsy at 40 days, where you should read the Oct 28 8-K",
    "accounts": {
     "Datadog": {
-     "score": 58,
+     "score": 60,
      "status": "Watch",
-     "headline": "Datadog is growing strongly, but renewal is 56 days out with no recent contact"
+     "headline": "Datadog is financially strong, but renewal is 56 days out with no contact"
     },
     "MongoDB": {
      "score": 76,
      "status": "Healthy",
-     "headline": "Hiring strongly, renewal far off, one 8-K leadership change to check"
+     "headline": "Hiring strongly, renewal far off, one 8-K leadership change"
     },
     "Etsy": {
-     "score": 62,
+     "score": 64,
      "status": "Healthy",
-     "headline": "Etsy stable; renewal in 40 days, check 8-K exec change"
+     "headline": "Etsy stable; renewal in 40 days, exec change needs checking"
     },
     "Peloton": {
-     "score": 70,
+     "score": 68,
      "status": "Healthy",
      "headline": "Peloton stable and hiring; reconnect before renewal"
     },
@@ -105,7 +105,7 @@
     "Ramp": {
      "score": 86,
      "status": "Healthy",
-     "headline": "Strong hiring, fresh contact, distant renewal; news is irrelevant noise"
+     "headline": "Strong hiring, recent contact, distant renewal; news is name-match noise"
     },
     "Brex": {
      "score": 52,
@@ -120,7 +120,7 @@
     "Betterment": {
      "score": 82,
      "status": "Healthy",
-     "headline": "Steady hiring and recent contact; negative news is unrelated noise"
+     "headline": "Steady hiring, recent contact; negative news is unrelated noise"
     },
     "Plaid": {
      "score": 70,
@@ -130,7 +130,7 @@
     "Notion": {
      "score": 65,
      "status": "Healthy",
-     "headline": "Notion is growing fast, but we've been silent 72 days"
+     "headline": "Notion is hiring fast, but we've been silent 72 days"
     }
    }
   }
