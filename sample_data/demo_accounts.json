@@ -1,0 +1,83 @@
+{
+  "note": "Fictional companies and events for demo mode. Nothing here is real.",
+  "accounts": [
+    {
+      "company": "Ledgerline",
+      "open_roles": 5, "prev_open_roles": 14, "new_since_last": 0, "new_7d": 0,
+      "roles": [["Senior Accountant", 21], ["Account Executive, Mid-Market", 26], ["Software Engineer, Payments", 33]],
+      "news": [
+        ["Ledgerline lays off 20% of staff as growth slows", "TechWire", 1, "severe"],
+        ["Ledgerline delays European launch", "Fintech Daily", 6, "negative"]
+      ],
+      "filings": [["8-K", 2, ["2.05"]]],
+      "renewal_in_days": 45, "contact_days_ago": 38, "arr": 84000, "owner": "Jordan",
+      "history": [74, 73, 74, 72, 72, 70, 69, 69, 67, 66, 64, 63, 61]
+    },
+    {
+      "company": "Quillstack",
+      "open_roles": 4, "prev_open_roles": 9, "new_since_last": 0, "new_7d": 0,
+      "roles": [["Customer Success Manager", 26], ["Product Designer", 40]],
+      "news": [["Quillstack to be acquired by Orbitly in all-stock deal", "Startup Ledger", 0, "severe"]],
+      "filings": [],
+      "renewal_in_days": 30, "contact_days_ago": 20, "arr": 52000, "owner": "Priya",
+      "history": [70, 70, 71, 70, 70, 70, 69, 70, 70, 70, 69, 70, 70]
+    },
+    {
+      "company": "Kestrel Robotics",
+      "open_roles": 11, "prev_open_roles": 12, "new_since_last": 1, "new_7d": 2,
+      "roles": [["Computer Vision Engineer", 3], ["Cloud Infrastructure Engineer", 6], ["Research Scientist, Perception", 22]],
+      "news": [["Kestrel Robotics CFO steps down after four years", "Robotics Business", 2, "negative"]],
+      "filings": [["8-K", 2, ["5.02"]]],
+      "renewal_in_days": 75, "contact_days_ago": 10, "arr": 66000, "owner": "Jordan",
+      "history": [71, 71, 72, 71, 72, 72, 71, 72, 71, 71, 72, 71, 72]
+    },
+    {
+      "company": "Brightpath Health",
+      "open_roles": 18, "prev_open_roles": 18, "new_since_last": 0, "new_7d": 1,
+      "roles": [["Data Platform Engineer", 5], ["Senior Data Scientist", 25], ["Growth Marketing Manager", 31]],
+      "news": [],
+      "filings": [],
+      "renewal_in_days": 120, "contact_days_ago": 52, "arr": 46000, "owner": "Priya",
+      "history": [70, 70, 70, 69, 68, 66, 64, 62, 60, 60, 60, 60, 60]
+    },
+    {
+      "company": "Northwind Travel",
+      "open_roles": 31, "prev_open_roles": 22, "new_since_last": 9, "new_7d": 7,
+      "roles": [["Head of Applied AI", 1], ["Senior Machine Learning Engineer", 2], ["Director of Performance Marketing", 3], ["Staff Data Engineer", 4], ["VP of Partnerships", 5]],
+      "news": [
+        ["Northwind Travel raises $60M Series C to expand into Europe", "TechWire", 3, "positive"],
+        ["Northwind Travel launches AI trip planner", "Travel Weekly", 9, "positive"]
+      ],
+      "filings": [],
+      "renewal_in_days": 210, "contact_days_ago": 6, "arr": 120000, "owner": "Jordan",
+      "history": [68, 68, 69, 70, 71, 72, 74, 75, 77, 79, 80, 82, 84]
+    },
+    {
+      "company": "Meridian Labs",
+      "open_roles": 16, "prev_open_roles": 14, "new_since_last": 3, "new_7d": 5,
+      "roles": [["VP of Finance", 2], ["Platform Engineer", 4], ["Solutions Architect", 6]],
+      "news": [["Meridian Labs opens New York office", "NYC Tech Journal", 4, "positive"]],
+      "filings": [],
+      "renewal_in_days": 160, "contact_days_ago": 14, "arr": 38000, "owner": "Priya",
+      "history": [72, 72, 73, 73, 74, 74, 75, 75, 76, 76, 77, 78, 78]
+    },
+    {
+      "company": "Harbor & Pine",
+      "open_roles": 9, "prev_open_roles": 9, "new_since_last": 0, "new_7d": 1,
+      "roles": [["Store Manager, SoHo", 4], ["Merchandise Planner", 28]],
+      "news": [["Harbor & Pine unveils spring collection", "Retail Dive Weekly", 8, "neutral"]],
+      "filings": [],
+      "renewal_in_days": 300, "contact_days_ago": 12, "arr": 24000, "owner": "Jordan",
+      "history": [70, 70, 70, 70, 70, 70, 70, 70, 70, 70, 70, 70, 70]
+    },
+    {
+      "company": "Atlas Freight",
+      "open_roles": 7, "prev_open_roles": 7, "new_since_last": 0, "new_7d": 0,
+      "roles": [["Operations Analyst", 15], ["Fleet Coordinator", 19]],
+      "news": [],
+      "filings": [],
+      "renewal_in_days": 240, "contact_days_ago": 20, "arr": 31000, "owner": "Priya",
+      "history": [69, 70, 70, 70, 71, 70, 70, 70, 70, 70, 70, 70, 70]
+    }
+  ]
+}

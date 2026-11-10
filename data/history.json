@@ -1,0 +1,71 @@
+{
+ "runs": [
+  {
+   "date": "2026-11-09",
+   "run_at": "2026-11-09T23:39:58.782691-05:00",
+   "summary": "Most of the book is healthy (9 of 12), but three accounts are on Watch: Datadog (58), Brex (55) and Squarespace (52). Start with Datadog and Brex, where renewals are close and contact has lapsed, then reach out to Squarespace about the 19% staff cut and the $60K contract. Next, read the 8-K Item 5.02 filings for Etsy (renewal in 41 days, $95K ARR) and MongoDB to see whether a sponsor or buyer changed, and reconnect with Notion (71 days quiet, Feb 28 renewal) and Peloton after its leadership change.",
+   "accounts": {
+    "Datadog": {
+     "score": 58,
+     "status": "Watch",
+     "headline": "Datadog is growing fast, but renewal is close and contact has lapsed."
+    },
+    "MongoDB": {
+     "score": 75,
+     "status": "Healthy",
+     "headline": "Growing fast, renewal far off, one 8-K to check"
+    },
+    "Etsy": {
+     "score": 65,
+     "status": "Healthy",
+     "headline": "Etsy looks stable; renewal in 41 days, recent contact"
+    },
+    "Peloton": {
+     "score": 70,
+     "status": "Healthy",
+     "headline": "Peloton stable and hiring; reconnect before renewal"
+    },
+    "Oscar Health": {
+     "score": 78,
+     "status": "Healthy",
+     "headline": "Strong hiring, recent contact; renewal in 84 days"
+    },
+    "Squarespace": {
+     "score": 52,
+     "status": "Watch",
+     "headline": "Squarespace cut 19% of staff; renewal still 172 days out"
+    },
+    "Ramp": {
+     "score": 85,
+     "status": "Healthy",
+     "headline": "Strong hiring, recent contact, renewal far out; news is noise"
+    },
+    "Brex": {
+     "score": 55,
+     "status": "Watch",
+     "headline": "Brex is growing fast, but renewal is close and contact has lapsed"
+    },
+    "Mercury": {
+     "score": 76,
+     "status": "Healthy",
+     "headline": "No real risk signals; the negative news is a horoscope"
+    },
+    "Betterment": {
+     "score": 82,
+     "status": "Healthy",
+     "headline": "Steady hiring and recent contact; the negative news is unrelated noise"
+    },
+    "Plaid": {
+     "score": 70,
+     "status": "Healthy",
+     "headline": "Quiet account, renewal far off, recent contact"
+    },
+    "Notion": {
+     "score": 68,
+     "status": "Healthy",
+     "headline": "Notion is hiring fast, but we've been quiet for 71 days"
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How it works · Account Pulse</title>
+<link rel="stylesheet" href="assets/style.css">
+<script src="assets/app.js" defer></script>
+</head><body>
+<header class="topbar"><div class="wrap">
+  <a class="brand" href="index.html"><span class="beat"></span>Account Pulse</a>
+  <nav><a href="index.html" class="">Overview</a><a href="accounts.html" class="">Accounts</a><a href="signals.html" class="">Signals</a><a href="timeline.html" class="">Timeline</a><a href="methodology.html" class="on">How it works</a></nav>
+  <span class="stamp">Updated <b>Nov 9, 2026 at 11:39 PM ET</b></span>
+</div></header>
+<main class="wrap">
+<h1>How it works</h1>
+<p class="lead">Account Pulse gives every account a health score from 0 to 100 every morning. Rules do the math so the
+score is explainable; an AI agent then reviews the evidence and makes the final call.</p>
+<div class="card"><p class="label">The grading scale</p>
+
+<div class="scale"><div style="width:45%;background:var(--crit)"></div><div style="width:20%;background:var(--watch)"></div>
+<div style="width:35%;background:var(--ok)"></div></div>
+<div class="scale-labels">
+  <div><b style="color:var(--crit)">0–44 · Critical</b><span class="muted">Serious risk to the renewal or relationship. Act this week.</span></div>
+  <div><b style="color:var(--watch)">45–64 · Watch</b><span class="muted">Warning signs. Check in soon.</span></div>
+  <div><b style="color:var(--ok)">65–100 · Healthy</b><span class="muted">Stable or growing. 80+ often means expansion potential.</span></div>
+</div>
+<p class="muted" style="margin:12px 0 0">Every account starts at 70 (healthy, nothing notable). Risks lower the score and
+opportunities raise it. Overlapping risks are capped at −55 in total, because one event (like a layoff) often shows up in
+the news, an SEC filing, and the job board at once.</p></div>
+<div class="grid2e section">
+  <div class="card table-wrap"><p class="label">Scoring rules</p><table><thead><tr><th>Signal</th><th class="num">Points</th></tr></thead>
+  <tbody><tr><td>Serious news: layoffs, breach, bankruptcy, acquired by another company</td><td class="num"><b class="down">−30</b></td></tr><tr><td>Open roles down 40% or more since the last run (possible hiring freeze)</td><td class="num"><b class="down">−25</b></td></tr><tr><td>SEC 8-K Item 2.05: restructuring or layoffs</td><td class="num"><b class="down">−20</b></td></tr><tr><td>Renewal within 60 days and no contact in 30+ days</td><td class="num"><b class="down">−15</b></td></tr><tr><td>Open roles down 20–39%</td><td class="num"><b class="down">−10</b></td></tr><tr><td>Renewal within 60 days</td><td class="num"><b class="down">−10</b></td></tr><tr><td>SEC 8-K Item 5.02: executive or director change</td><td class="num"><b class="down">−10</b></td></tr><tr><td>No contact in 45+ days</td><td class="num"><b class="down">−10</b></td></tr><tr><td>Negative news (lawsuit, outage, executive departure)</td><td class="num"><b class="down">−8 each, up to −20</b></td></tr><tr><td>Open roles up 20% or more</td><td class="num"><b class="up">+10</b></td></tr><tr><td>Positive news (funding, expansion, launch, partnership)</td><td class="num"><b class="up">+5 each, up to +15</b></td></tr><tr><td>5+ new roles posted in the last 7 days</td><td class="num"><b class="up">+5</b></td></tr><tr><td>SEC 8-K Item 2.01: acquisition</td><td class="num"><b class="up">+5</b></td></tr></tbody></table></div>
+  <div class="card"><p class="label">What the numbers mean</p><ul class="ev">
+    <li><span class="what"><b>Score</b><br><span class="muted">0 to 100. Higher is healthier.</span></span></li>
+    <li><span class="what"><b>1-day and 7-day change</b><br><span class="muted">Points gained or lost since yesterday and a week ago.</span></span></li>
+    <li><span class="what"><b>Momentum</b><br><span class="muted">Improving if up 5+ points over 7 days, Declining if down 5+, otherwise Stable.</span></span></li>
+    <li><span class="what"><b>Status since</b><br><span class="muted">The first day of the account's current status.</span></span></li>
+    <li><span class="what"><b>ARR not healthy</b><br><span class="muted">Annual contract value of all accounts in Watch or Critical.</span></span></li></ul>
+  <p class="label" style="margin-top:14px">The AI agent</p>
+  <p style="margin:0">For each account, a Claude agent starts from the rule score, decides which evidence to check (hiring, news,
+  filings, CRM, score history), and submits a status, a reason, and one next action. It may override the rules only with
+  evidence, and it may only use facts the data returned. If it's unavailable, the rule score is used.</p></div>
+</div>
+<div class="card section table-wrap"><p class="label">Data sources</p><table>
+<thead><tr><th>Source</th><th>What it tells us</th><th>Updated</th><th>Link</th></tr></thead><tbody>
+<tr><td>Greenhouse, Lever, Ashby job boards</td><td>Hiring growth, freezes, new teams</td><td>Daily</td><td><a class="src" href="https://developers.greenhouse.io/job-board.html" target="_blank" rel="noopener">Docs ↗</a></td></tr>
+<tr><td>GNews API</td><td>Layoffs, funding, leadership, launches (last 14 days)</td><td>Daily</td><td><a class="src" href="https://gnews.io/docs/v4" target="_blank" rel="noopener">Docs ↗</a></td></tr>
+<tr><td>SEC EDGAR</td><td>Official filings from public companies (last 30 days)</td><td>Daily</td><td><a class="src" href="https://www.sec.gov/search-filings/edgar-application-programming-interfaces" target="_blank" rel="noopener">Docs ↗</a></td></tr>
+<tr><td>CRM fields</td><td>Renewal date, last contact, contract value</td><td>Daily</td><td><span class="muted">Sample values</span></td></tr>
+<tr><td>Claude API</td><td>Agent review and summaries</td><td>Daily</td><td><a class="src" href="https://docs.claude.com" target="_blank" rel="noopener">Docs ↗</a></td></tr>
+</tbody></table></div>
+<footer>Account Pulse checks every account each morning at about 7:00 AM ET: hiring, news, and SEC filings,
+compared to the previous run, scored by transparent rules, then reviewed by an AI agent.
+<a href="methodology.html">How it works</a>.</footer>
+</main></body></html>

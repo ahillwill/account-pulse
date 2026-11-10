@@ -1,0 +1,13 @@
+company,domain,ats,board_token,news_query,cik,renewal_date,last_contact,arr,owner
+Datadog,datadoghq.com,greenhouse,datadog,"""Datadog""",1561550,2027-01-05,2026-10-01,180000,Austin
+MongoDB,mongodb.com,greenhouse,mongodb,"""MongoDB""",1441816,2027-06-30,2026-11-02,150000,Austin
+Etsy,etsy.com,greenhouse,etsy,"""Etsy""",1370637,2026-12-20,2026-10-28,95000,Austin
+Peloton,onepeloton.com,greenhouse,peloton,"""Peloton""",1639825,2027-03-15,2026-09-20,70000,Austin
+Oscar Health,hioscar.com,greenhouse,oscar,"""Oscar Health""",1568651,2027-02-01,2026-11-04,88000,Austin
+Squarespace,squarespace.com,greenhouse,squarespace,"""Squarespace""",,2027-04-30,2026-10-15,60000,Austin
+Ramp,ramp.com,ashby,ramp,"""Ramp"" AND (fintech OR finance OR startup)",,2027-08-01,2026-11-06,120000,Austin
+Brex,brex.com,greenhouse,brex,"""Brex""",,2026-12-31,2026-09-25,110000,Austin
+Mercury,mercury.com,,,"""Mercury"" AND (bank OR banking OR fintech)",,2027-05-15,2026-10-30,45000,Austin
+Betterment,betterment.com,greenhouse,betterment,"""Betterment""",,2027-01-20,2026-11-01,40000,Austin
+Plaid,plaid.com,,,"""Plaid"" AND (fintech OR payments OR banking)",,2027-07-10,2026-10-22,130000,Austin
+Notion,notion.so,ashby,notion,"""Notion"" AND (software OR AI OR startup)",,2027-02-28,2026-08-30,75000,Austin
