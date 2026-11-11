@@ -133,6 +133,73 @@
      "headline": "Notion is hiring fast, but we've been silent 72 days"
     }
    }
+  },
+  {
+   "date": "2026-11-11",
+   "run_at": "2026-11-11T08:07:43.477964-05:00",
+   "summary": "The book looks mostly healthy, with eight of twelve accounts rated Healthy and four on Watch (Datadog, Brex, Notion, Squarespace). Start with Brex and Datadog, since both renew in about 50 days with no contact, then",
+   "accounts": {
+    "Datadog": {
+     "score": 58,
+     "status": "Watch",
+     "headline": "Datadog is strong, but renewal is 55 days out with no contact"
+    },
+    "MongoDB": {
+     "score": 76,
+     "status": "Healthy",
+     "headline": "Strong hiring, distant renewal; one leadership 8-K to review"
+    },
+    "Etsy": {
+     "score": 63,
+     "status": "Healthy",
+     "headline": "Etsy stable; renewal in 39 days, confirm exec change"
+    },
+    "Peloton": {
+     "score": 66,
+     "status": "Healthy",
+     "headline": "Peloton hiring steadily; reconnect before renewal planning"
+    },
+    "Oscar Health": {
+     "score": 78,
+     "status": "Healthy",
+     "headline": "Oscar Health hiring steadily, recent contact, renewal in 82 days"
+    },
+    "Squarespace": {
+     "score": 52,
+     "status": "Watch",
+     "headline": "Squarespace cut 19% of staff; hiring steady, renewal 170 days out"
+    },
+    "Ramp": {
+     "score": 86,
+     "status": "Healthy",
+     "headline": "Strong hiring, recent contact, distant renewal; news is noise"
+    },
+    "Brex": {
+     "score": 52,
+     "status": "Watch",
+     "headline": "Brex is growing, but renewal is 50 days out with no contact"
+    },
+    "Mercury": {
+     "score": 76,
+     "status": "Healthy",
+     "headline": "No real risk signals; the negative news is a horoscope"
+    },
+    "Betterment": {
+     "score": 82,
+     "status": "Healthy",
+     "headline": "Hiring is growing and contact is recent; the negative news is unrelated"
+    },
+    "Plaid": {
+     "score": 70,
+     "status": "Healthy",
+     "headline": "Quiet account, renewal 8 months out, recent contact"
+    },
+    "Notion": {
+     "score": 62,
+     "status": "Watch",
+     "headline": "Notion is growing, but we've been silent 73 days before renewal"
+    }
+   }
   }
  ]
 }
