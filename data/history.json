@@ -602,6 +602,73 @@
      "headline": "Notion growing fast; supplier breach is their problem; we're silent 79 days"
     }
    }
+  },
+  {
+   "date": "2026-11-18",
+   "run_at": "2026-11-18T08:14:03.256225-05:00",
+   "summary": "0 critical, 5 on watch, 7 healthy. No accounts need urgent attention today.",
+   "accounts": {
+    "Datadog": {
+     "score": 52,
+     "status": "Watch",
+     "headline": "Datadog is strong, but renewal in 48 days with no contact"
+    },
+    "MongoDB": {
+     "score": 78,
+     "status": "Healthy",
+     "headline": "Hiring surge, renewal far off, routine 8-K"
+    },
+    "Etsy": {
+     "score": 55,
+     "status": "Watch",
+     "headline": "Etsy stable overall; renewal in 32 days, exec change unchecked"
+    },
+    "Peloton": {
+     "score": 64,
+     "status": "Healthy",
+     "headline": "Peloton hiring and stable; 59-day contact gap before March renewal"
+    },
+    "Oscar Health": {
+     "score": 68,
+     "status": "Healthy",
+     "headline": "Oscar hiring strongly; exec-change 8-K needs a look"
+    },
+    "Squarespace": {
+     "score": 60,
+     "status": "Watch",
+     "headline": "Layoff signal aged out of news, but not resolved"
+    },
+    "Ramp": {
+     "score": 86,
+     "status": "Healthy",
+     "headline": "Strong hiring, recent contact, distant renewal; news is noise"
+    },
+    "Brex": {
+     "score": 52,
+     "status": "Watch",
+     "headline": "Brex is hiring hard, but renewal is 43 days out, no contact"
+    },
+    "Mercury": {
+     "score": 76,
+     "status": "Healthy",
+     "headline": "No real risk signals; the negative headline is a horoscope"
+    },
+    "Betterment": {
+     "score": 78,
+     "status": "Healthy",
+     "headline": "Steady hiring, no real news; renewal in 63 days"
+    },
+    "Plaid": {
+     "score": 70,
+     "status": "Healthy",
+     "headline": "Quiet account, renewal 8 months out, no negative signals"
+    },
+    "Notion": {
+     "score": 55,
+     "status": "Watch",
+     "headline": "Notion growing fast; supplier breach is their issue; we're silent 80 days"
+    }
+   }
   }
  ]
 }
