@@ -669,6 +669,73 @@
      "headline": "Notion growing fast; supplier breach is their issue; we're silent 80 days"
     }
    }
+  },
+  {
+   "date": "2026-11-19",
+   "run_at": "2026-11-19T08:17:55.752941-05:00",
+   "summary": "0 critical, 5 on watch, 7 healthy. No accounts need urgent attention today.",
+   "accounts": {
+    "Datadog": {
+     "score": 52,
+     "status": "Watch",
+     "headline": "Datadog is strong, but renewal is 47 days out with no contact"
+    },
+    "MongoDB": {
+     "score": 78,
+     "status": "Healthy",
+     "headline": "Hiring surge, renewal far off, routine 8-K"
+    },
+    "Etsy": {
+     "score": 55,
+     "status": "Watch",
+     "headline": "Etsy stable, but renewal in 31 days and exec change unchecked"
+    },
+    "Peloton": {
+     "score": 63,
+     "status": "Healthy",
+     "headline": "Peloton stable and hiring; 60-day contact gap before March renewal"
+    },
+    "Oscar Health": {
+     "score": 68,
+     "status": "Healthy",
+     "headline": "Oscar hiring strongly; exec-change 8-K needs a look"
+    },
+    "Squarespace": {
+     "score": 62,
+     "status": "Watch",
+     "headline": "Hiring is picking up, but the 19% layoff is recent"
+    },
+    "Ramp": {
+     "score": 86,
+     "status": "Healthy",
+     "headline": "Aggressive hiring, recent contact, renewal far out; news is noise"
+    },
+    "Brex": {
+     "score": 50,
+     "status": "Watch",
+     "headline": "Brex hiring hard, but renewal is 42 days out, no contact"
+    },
+    "Mercury": {
+     "score": 72,
+     "status": "Healthy",
+     "headline": "No real risk signals; renewal is 177 days out"
+    },
+    "Betterment": {
+     "score": 76,
+     "status": "Healthy",
+     "headline": "Steady hiring, no real news; renewal in 62 days"
+    },
+    "Plaid": {
+     "score": 70,
+     "status": "Healthy",
+     "headline": "Quiet account, renewal 8 months out, no negative signals"
+    },
+    "Notion": {
+     "score": 55,
+     "status": "Watch",
+     "headline": "Notion growing fast; supplier breach is their issue; silent 81 days"
+    }
+   }
   }
  ]
 }
