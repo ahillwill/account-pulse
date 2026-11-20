@@ -736,6 +736,73 @@
      "headline": "Notion growing fast; supplier breach is their issue; silent 81 days"
     }
    }
+  },
+  {
+   "date": "2026-11-20",
+   "run_at": "2026-11-20T08:12:30.315498-05:00",
+   "summary": "0 critical, 5 on watch, 7 healthy. No accounts need urgent attention today.",
+   "accounts": {
+    "Datadog": {
+     "score": 52,
+     "status": "Watch",
+     "headline": "Datadog is strong, but renewal is 46 days out with no contact"
+    },
+    "MongoDB": {
+     "score": 78,
+     "status": "Healthy",
+     "headline": "Hiring surge, renewal far off, routine 8-K"
+    },
+    "Etsy": {
+     "score": 55,
+     "status": "Watch",
+     "headline": "Etsy stable, but renewal in 30 days and exec change unverified"
+    },
+    "Peloton": {
+     "score": 64,
+     "status": "Healthy",
+     "headline": "Peloton stable and hiring; 61-day contact gap before March renewal"
+    },
+    "Oscar Health": {
+     "score": 66,
+     "status": "Healthy",
+     "headline": "Oscar hiring strongly; exec-change 8-K needs a look"
+    },
+    "Squarespace": {
+     "score": 64,
+     "status": "Watch",
+     "headline": "Hiring is rebounding, but the 19% layoff is still recent"
+    },
+    "Ramp": {
+     "score": 86,
+     "status": "Healthy",
+     "headline": "Aggressive hiring, renewal far out; news is noise"
+    },
+    "Brex": {
+     "score": 52,
+     "status": "Watch",
+     "headline": "Brex is hiring strongly, but renewal is 41 days out, no contact"
+    },
+    "Mercury": {
+     "score": 70,
+     "status": "Healthy",
+     "headline": "Quiet account, no risk signals; renewal 176 days out"
+    },
+    "Betterment": {
+     "score": 74,
+     "status": "Healthy",
+     "headline": "Hiring steady and growing; renewal in 61 days, contact aging"
+    },
+    "Plaid": {
+     "score": 70,
+     "status": "Healthy",
+     "headline": "Quiet account, renewal 8 months out, no negative signals"
+    },
+    "Notion": {
+     "score": 55,
+     "status": "Watch",
+     "headline": "Notion growing fast; supplier breach is noise; we're silent 82 days"
+    }
+   }
   }
  ]
 }
