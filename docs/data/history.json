@@ -870,6 +870,73 @@
      "headline": "Notion growing fast; supplier breach is contained noise; we're silent 83 days"
     }
    }
+  },
+  {
+   "date": "2026-11-22",
+   "run_at": "2026-11-22T07:55:09.702086-05:00",
+   "summary": "Most of the book is stable: seven accounts are Healthy and five are on Watch, with no outright red flags, but several renewals are close and contact has lapsed. Focus first on Etsy (renewal in 28 days, seller AI backlash, and an exec change that may affect your sponsor), then Brex (39 days out, no contact) and Datadog (44 days out, no contact). Next, Notion (84 days silent and a supplier breach to address) and Squarespace (quiet contact after a 19% layoff) need outreach this week, while Oscar Health's 11/16 8-K should be read soon to see if your sponsor or buyer changed.",
+   "accounts": {
+    "Datadog": {
+     "score": 52,
+     "status": "Watch",
+     "headline": "Datadog is strong, but renewal is 44 days out with no contact"
+    },
+    "MongoDB": {
+     "score": 78,
+     "status": "Healthy",
+     "headline": "Hiring surge, renewal far off, no real red flags"
+    },
+    "Etsy": {
+     "score": 52,
+     "status": "Watch",
+     "headline": "Etsy Watch: renewal in 28 days, seller AI backlash, exec change"
+    },
+    "Peloton": {
+     "score": 65,
+     "status": "Healthy",
+     "headline": "Peloton stable and hiring; 63-day contact gap before March renewal"
+    },
+    "Oscar Health": {
+     "score": 66,
+     "status": "Healthy",
+     "headline": "Oscar hiring strongly; exec-change 8-K and renewal need attention"
+    },
+    "Squarespace": {
+     "score": 64,
+     "status": "Watch",
+     "headline": "Hiring rebounding after 19% layoff; contact gone quiet"
+    },
+    "Ramp": {
+     "score": 85,
+     "status": "Healthy",
+     "headline": "Ramp hiring hard, renewal far out, no negative news"
+    },
+    "Brex": {
+     "score": 52,
+     "status": "Watch",
+     "headline": "Brex is hiring strongly, but renewal is 39 days out with no contact"
+    },
+    "Mercury": {
+     "score": 70,
+     "status": "Healthy",
+     "headline": "Quiet account, no risk signals; renewal 174 days out"
+    },
+    "Betterment": {
+     "score": 72,
+     "status": "Healthy",
+     "headline": "Hiring strong; renewal in 59 days, contact aging"
+    },
+    "Plaid": {
+     "score": 70,
+     "status": "Healthy",
+     "headline": "Quiet account, renewal 230 days out, no negative signals"
+    },
+    "Notion": {
+     "score": 55,
+     "status": "Watch",
+     "headline": "Notion hiring strongly; supplier breach is a side issue; we're silent 84 days"
+    }
+   }
   }
  ]
 }
