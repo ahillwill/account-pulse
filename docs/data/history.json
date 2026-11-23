@@ -937,6 +937,73 @@
      "headline": "Notion hiring strongly; supplier breach is a side issue; we're silent 84 days"
     }
    }
+  },
+  {
+   "date": "2026-11-23",
+   "run_at": "2026-11-23T08:20:02.981257-05:00",
+   "summary": "The book is mostly stable, with seven accounts healthy and five on Watch, but the Watch accoun",
+   "accounts": {
+    "Datadog": {
+     "score": 52,
+     "status": "Watch",
+     "headline": "Datadog is strong, but renewal is 43 days out with no contact"
+    },
+    "MongoDB": {
+     "score": 78,
+     "status": "Healthy",
+     "headline": "Hiring surge, renewal far off, no real red flags"
+    },
+    "Etsy": {
+     "score": 50,
+     "status": "Watch",
+     "headline": "Etsy renewal in 27 days; exec change and seller backlash"
+    },
+    "Peloton": {
+     "score": 65,
+     "status": "Healthy",
+     "headline": "Peloton hiring steadily; 64-day contact gap before March renewal"
+    },
+    "Oscar Health": {
+     "score": 66,
+     "status": "Healthy",
+     "headline": "Oscar hiring strongly; exec-change 8-K and renewal need a look"
+    },
+    "Squarespace": {
+     "score": 66,
+     "status": "Watch",
+     "headline": "Hiring rebounding after 19% layoff; contact has gone quiet"
+    },
+    "Ramp": {
+     "score": 84,
+     "status": "Healthy",
+     "headline": "Ramp hiring hard, renewal far out, no negative news"
+    },
+    "Brex": {
+     "score": 52,
+     "status": "Watch",
+     "headline": "Brex is growing, but renewal is 38 days out with no contact"
+    },
+    "Mercury": {
+     "score": 70,
+     "status": "Healthy",
+     "headline": "Quiet account, no risk signals; renewal 173 days out"
+    },
+    "Betterment": {
+     "score": 72,
+     "status": "Healthy",
+     "headline": "Hiring strong, no real news; renewal in 58 days needs outreach"
+    },
+    "Plaid": {
+     "score": 70,
+     "status": "Healthy",
+     "headline": "Quiet account, renewal 229 days out, no negative signals"
+    },
+    "Notion": {
+     "score": 55,
+     "status": "Watch",
+     "headline": "Notion growing fast; supplier breach is their issue; we're silent 85 days"
+    }
+   }
   }
  ]
 }
