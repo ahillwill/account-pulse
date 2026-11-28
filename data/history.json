@@ -1272,6 +1272,73 @@
      "headline": "Notion is growing fast, but we've been silent 89 days before renewal"
     }
    }
+  },
+  {
+   "date": "2026-11-28",
+   "run_at": "2026-11-28T07:59:49.689933-05:00",
+   "summary": "0 critical, 6 on watch, 6 healthy. No accounts need urgent attention today.",
+   "accounts": {
+    "Datadog": {
+     "score": 52,
+     "status": "Watch",
+     "headline": "Datadog is strong, but renewal in 38 days with no contact"
+    },
+    "MongoDB": {
+     "score": 78,
+     "status": "Healthy",
+     "headline": "Strong hiring, renewal far off, no red flags"
+    },
+    "Etsy": {
+     "score": 48,
+     "status": "Watch",
+     "headline": "Etsy renewal in 22 days, no contact for 31 days"
+    },
+    "Peloton": {
+     "score": 63,
+     "status": "Healthy",
+     "headline": "Peloton hiring steadily; 69 days without contact, renewal in 107"
+    },
+    "Oscar Health": {
+     "score": 66,
+     "status": "Healthy",
+     "headline": "Oscar hiring strongly; exec change and Feb renewal need a look"
+    },
+    "Squarespace": {
+     "score": 64,
+     "status": "Watch",
+     "headline": "Hiring rebounding after 19% layoff; no contact in 44 days"
+    },
+    "Ramp": {
+     "score": 78,
+     "status": "Healthy",
+     "headline": "Ramp hiring fast, renewal far off; contact going stale"
+    },
+    "Brex": {
+     "score": 52,
+     "status": "Watch",
+     "headline": "Brex is growing fast, but renewal is 33 days out, no contact"
+    },
+    "Mercury": {
+     "score": 70,
+     "status": "Healthy",
+     "headline": "Quiet account, no risk signals; renewal 168 days out"
+    },
+    "Betterment": {
+     "score": 66,
+     "status": "Watch",
+     "headline": "Business looks stable, but renewal is close and contact is aging"
+    },
+    "Plaid": {
+     "score": 70,
+     "status": "Healthy",
+     "headline": "Quiet account, renewal 224 days out, no negative signals"
+    },
+    "Notion": {
+     "score": 60,
+     "status": "Watch",
+     "headline": "Notion is hiring fast, but we've been silent 90 days before renewal"
+    }
+   }
   }
  ]
 }
